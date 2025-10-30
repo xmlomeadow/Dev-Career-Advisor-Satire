@@ -1,0 +1,2 @@
+# Daily Notes
+Adjust modal z-index to always be on top
